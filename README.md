@@ -7,3 +7,6 @@ selenium
 smtp
 
 tkinter
+
+
+https://www.notion.so/python-fc372fd668e74b4da644d1581c389a49
