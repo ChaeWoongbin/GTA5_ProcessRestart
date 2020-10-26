@@ -93,7 +93,7 @@ def btncmd():
     # 로딩 대기시간
     time.sleep(5)
 
-    ids = browser.find_elements_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div[2]/section/div/div')
+    ids = browser.find_elements_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div/div[2]/div/div/div[2]/section/div/div')
 
     new_exist = False
     #print('crawl')
