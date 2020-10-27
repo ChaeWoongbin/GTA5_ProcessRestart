@@ -48,7 +48,7 @@ txt_smtp.pack()
 label_smtp_pwd = Label(root, text="SMTP 메일 pwd")
 label_smtp_pwd.pack()
 
-txt_smtp_pwd = Entry(root, width=30)
+txt_smtp_pwd = Entry(root, show='*', width=30)
 txt_smtp_pwd.pack()
 
 # 동작
