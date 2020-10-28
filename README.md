@@ -11,4 +11,6 @@ tkinter
 
 https://www.notion.so/python-fc372fd668e74b4da644d1581c389a49
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 https://youtu.be/Q5Vp_w5YaJI
